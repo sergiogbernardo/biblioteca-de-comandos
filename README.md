@@ -6,6 +6,8 @@ Workers, networking and troubleshooting.
 The app runs entirely in the browser. It is a searchable command library with
 examples, shell/platform filters, risk labels and copy buttons.
 
+Live app: <https://sabion.io/biblioteca-de-comandos/>
+
 ## Scope
 
 - Windows CMD and PowerShell commands
